@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_name">Temp Converter</string>
+    <string name="hint">Enter temperature</string>
+    <string name="celcious_btn_title">C</string>
+    <string name="farenhinet_btn_title">F</string>
+
+</resources>
